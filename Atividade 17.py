@@ -1,6 +1,6 @@
 total_arrecadado = 0
 
-for arrecadou in range(10):
+for i in range(10):
     arrecadou = int(input("Digite o valor arrecadado: "))
     total_arrecadado = total_arrecadado + arrecadou
 
